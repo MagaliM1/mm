@@ -1,6 +1,6 @@
-import "./App.jsx";
-import { SaludoProps } from "./components/EjconProps";
-import { EjemploCJSX, EjemploFuncional, EjemploS } from "./components/Ejemplos";
+import "./App.css";
+import { SaludoProps } from "./components/EjconProps.jsx";
+import { EjemploCJSX, EjemploFuncional, EjemploS } from "./components/Ejemplos.jsx";
 
 function App() {
   return (
