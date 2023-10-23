@@ -1,4 +1,4 @@
-import "./App.css";
+import "./App";
 import { SaludoProps } from "./components/EjconProps.jsx";
 import { EjemploCJSX, EjemploFuncional, EjemploS } from "./components/Ejemplos.jsx";
 
